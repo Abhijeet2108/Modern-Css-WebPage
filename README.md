@@ -5,6 +5,8 @@
 
 **Project : Modern CSS Webpage ** A sleek, modern website built with GSAP for smooth animations and Locomotive Scroll for immersive scrolling effects. Designed with a focus on responsiveness, it ensures seamless performance across all devices. The site combines cutting-edge design with intuitive user interactions, making it visually engaging and highly functional.
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://abhijeet-modern-css.netlify.app)
+
 ---
 
 ## Features ✨
