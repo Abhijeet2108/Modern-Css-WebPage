@@ -5,15 +5,17 @@ Copy
  <img src="Screenshot 2025-03-07 at 7.19.35 AM.png" alt="Your Name" style="border-radius: 50%; width: 85%px;  " />
 
 
-**Project Name** is a [brief description of your project]. It is designed to [explain the purpose or goal of the project]. Whether you're [target audience or use case], this project has something for you!
+**Project : Modern CSS Webpage ** A sleek, modern website built with GSAP for smooth animations and Locomotive Scroll for immersive scrolling effects. Designed with a focus on responsiveness, it ensures seamless performance across all devices. The site combines cutting-edge design with intuitive user interactions, making it visually engaging and highly functional.
 
 ---
 
 ## Features ✨
 
-- **Feature 1**: Responsive & Adaptable.
-- **Feature 2**: .
-
+- **Feature 1**: GSAP Animations: Smooth, high-performance animations for a dynamic user experience.
+- **Feature 2**: Locomotive Scroll: Effortless, fluid scrolling for a modern touch..
+- **Feature 3**: Responsive Design: Fully optimized for mobile, tablet, and desktop.
+- **Feature 4**: Interactive UI: Engaging and intuitive user interactions.
+- **Feature 5**: Modern Aesthetic: Clean, minimalist design with a focus on usability.
 
 ---
 
