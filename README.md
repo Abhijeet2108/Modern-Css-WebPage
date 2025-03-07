@@ -1,8 +1,9 @@
-markdown
+ 
 Copy
-# Project Name
-Modern CSS Webpage
-![Project Logo](https://via.placeholder.com/150) <!-- Replace with your project logo -->
+# <a href"https://abhijeet-modern-css.netlify.app/">Modern CSS Webpage </a>
+
+![Project Logo](https://via.placeholder.com/150) 
+
 
 **Project Name** is a [brief description of your project]. It is designed to [explain the purpose or goal of the project]. Whether you're [target audience or use case], this project has something for you!
 
@@ -10,7 +11,7 @@ Modern CSS Webpage
 
 ## Features ✨
 
-- **Feature 1**: Responsive.
+- **Feature 1**: Responsive & Adaptable.
 - **Feature 2**: .
 
 
@@ -18,7 +19,7 @@ Modern CSS Webpage
 
 ## Installation 🛠️
 
-To get started with **Project Name**, follow these simple steps:
+To get started with **Modern CSS Webpage, follow these simple steps:
 
 1. **Clone the repository**:
    ```bash
@@ -76,8 +77,7 @@ Contact 📧 abhijeetbhaisare.official@gmail.com
 If you have any questions, feel free to reach out:
 
 Email: abhijeetbhaisare.official@gmail.com
-Twitter: @YourHandle
-Website: Your Website
+ 
 Footer <!-- Optional: Add a footer image or banner -->
 
 Modern CSS Webpage 🎉
