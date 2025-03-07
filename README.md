@@ -11,8 +11,6 @@
 
 ---
 
-## Features ✨
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -26,6 +24,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+---
+
+## Features ✨
+
 
 - **Feature 1**: GSAP Animations: Smooth, high-performance animations for a dynamic user experience.
 - **Feature 2**: Locomotive Scroll: Effortless, fluid scrolling for a modern touch..
