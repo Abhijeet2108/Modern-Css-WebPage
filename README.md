@@ -1,7 +1,7 @@
 markdown
 Copy
 # Project Name
-
+Modern CSS Webpage
 ![Project Logo](https://via.placeholder.com/150) <!-- Replace with your project logo -->
 
 **Project Name** is a [brief description of your project]. It is designed to [explain the purpose or goal of the project]. Whether you're [target audience or use case], this project has something for you!
@@ -10,10 +10,9 @@ Copy
 
 ## Features ✨
 
-- **Feature 1**: [Brief description of the feature].
-- **Feature 2**: [Brief description of the feature].
-- **Feature 3**: [Brief description of the feature].
-- **Feature 4**: [Brief description of the feature].
+- **Feature 1**: Responsive.
+- **Feature 2**: .
+
 
 ---
 
@@ -70,26 +69,16 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Acknowledgments 🙏
 
-Library/Framework Name - For [reason].
-Inspiration Source - For [reason].
-Contributor Name - For [reason].
-Contact 📧
+Library/Framework Name - gsap & Locomotive.
+Inspiration Source - Youtube.
+Contact 📧 abhijeetbhaisare.official@gmail.com
 
 If you have any questions, feel free to reach out:
 
-Email: your.email@example.com
+Email: abhijeetbhaisare.official@gmail.com
 Twitter: @YourHandle
 Website: Your Website
 Footer <!-- Optional: Add a footer image or banner -->
 
-Enjoy using Project Name! 🎉
-
-Copy
-
-### Steps to Use:
-1. Copy the above code.
-2. Paste it into your `README.md` file.
-3. Replace all placeholders (e.g., `yourusername`, `your-repo-name`, `Project Name`, etc.) with your project-specific details.
-4. Customize sections like **Features**, **Installation**, **Usage**, etc., to match your project.
-
-Let me know if you need further assistance! 🚀
+Modern CSS Webpage 🎉
+ 
