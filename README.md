@@ -1,7 +1,7 @@
  
 Copy
 # Modern CSS Webpage
- <img src="Screenshot 2025-03-07 at 7.19.35 AM.png" alt="Your Name" style="border-radius: 10%;   /> 
+ <img src="Screenshot 2025-03-07 at 7.19.35 AM.png" alt="Your Name" style="border-radius: 10%  /> 
 
 
 **Project Name** is a [brief description of your project]. It is designed to [explain the purpose or goal of the project]. Whether you're [target audience or use case], this project has something for you!
