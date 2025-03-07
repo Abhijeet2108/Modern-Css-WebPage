@@ -1,8 +1,7 @@
  
 Copy
-# <a href"https://abhijeet-modern-css.netlify.app/">Modern CSS Webpage </a>
-
-![Project Logo](https://via.placeholder.com/150) 
+# Modern CSS Webpage
+ <img src="/Users/abhijeetbhaisare/Desktop/Screenshot 2025-03-07 at 7.19.35 AM.png" alt="Your Name" style="border-radius: 50%; width: 150px; height: 150px;" /> 
 
 
 **Project Name** is a [brief description of your project]. It is designed to [explain the purpose or goal of the project]. Whether you're [target audience or use case], this project has something for you!
